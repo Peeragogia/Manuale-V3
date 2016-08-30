@@ -140,7 +140,8 @@ h1, .h1 {
   font-size: 64px; }
 
 h2, .h2 {
-  font-size: 48px; }
+  font-size: 48px; 
+text-align: center;}
 
 h3, .h3 {
   font-size: 32px; }
@@ -579,7 +580,9 @@ header.site-header nav {
     display: block;
     float: none; }
     .archive-wrap .post-list lh h2 {
-      margin-bottom: 49.5px; }
+      margin-bottom: 49.5px;
+        text-align: center;
+}
     .archive-wrap .post-list li {
       display: block;
       float: none;
